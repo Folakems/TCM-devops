@@ -1,0 +1,18 @@
+Git is a free and open-source control system.
+Version control is the way we as programmers track changes to our codes.
+Terms
+Directory: Also known as a folder on a pc.
+Terminal or Command Line: interface for text command typing.
+CLI: command Line Interface
+CD: change directory
+Code Editor: Word processor for writing code.
+Repository: project or the folder/place where your project is kept.
+Git: tool that tracks the changes to your codes overtime.
+Github: A website that hosts your repositories.
+
+Git Commands
+Clone: To bring a repository that is hosted somewhere like github into a folder on your device.
+Add: track your files and changes in git.
+Commit: save your files in git.
+Push: upload git commits to a remote repository like github.
+Pull: download changes from remote repository to your local machine. It is the opposite of push.
